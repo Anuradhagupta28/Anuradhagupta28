@@ -46,7 +46,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/anuradha-gupta-9a872421b/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
   <a title="annugupta8512@gmail.com" href="mailto:annugupta8512@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
-  <a href="[https://abouttheyash.netlify.app/](https://647766374ac8633b03c7e021--bucolic-medovik-c30407.netlify.app/#)" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
+  <a href="https://647766374ac8633b03c7e021--bucolic-medovik-c30407.netlify.app/#" target="_blank"><img align="center" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
 </p>
 <br />
 <div>
