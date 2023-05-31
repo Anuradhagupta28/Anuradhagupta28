@@ -51,8 +51,8 @@
 <br />
 <div>
 
-  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=yash0922&show_icons=true&theme=gradient" />
-  <img width="38%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=yash0922&layout=compact" />
+  <img width="50%"  src="https://github-readme-stats.vercel.app/api?username=Anuradhagupta28&show_icons=true&theme=gradient" />
+  <img width="38%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anuradhagupta28&layout=compact" />
 
 
 </div>
