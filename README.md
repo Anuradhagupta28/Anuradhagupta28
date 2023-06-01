@@ -49,7 +49,7 @@ Highly passionate and user-focused Developer adept incollaborating with teams to
 </a>
 <a href="https://github.com/Anuradhagupta28?tab=followers"><img src="https://img.shields.io/github/followers/Anuradhagupta28?label=Followers&style=social" alt="GitHub Badge"></a>
 
-### [Portfolio](https://647766374ac8633b03c7e021--bucolic-medovik-c30407.netlify.app/#) 
+### [Portfolio](https://anuradhagupta28.github.io/) 
 
 
 
