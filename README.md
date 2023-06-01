@@ -4,7 +4,7 @@ Highly passionate and user-focused Developer adept incollaborating with teams to
 </h4>
 
 
-<h4 >🎬 Favorite anime: Demon Slayer, Attack on Titan, Naruto</h4>
+<!-- <h4 >🎬 Favorite anime: Demon Slayer, Attack on Titan, Naruto</h4> -->
 
 
 <br/>
