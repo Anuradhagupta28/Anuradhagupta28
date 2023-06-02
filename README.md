@@ -1,82 +1,88 @@
-<h1 align="center" >Hi 👋, I'm Anuradha</h1>
-<h4 align="center">
-Highly passionate and user-focused Developer adept incollaborating with teams to plan the technical writing andexecution of functional specifications for websites andapplications looking for a good opportunity which can helpme in enhancing my skills.
-</h4>
+<p align=center>
+
+<h1 align="center"> <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">Hi, I am Anuradha Gupta <img src="https://camo.githubusercontent.com/d77420cfd4d5a0289af772acf207010f72dd713372ca5a46abd6c650e3791c1c/68747470733a2f2f696d6775722e636f6d2f5546616531486c2e676966" width="40px"></h1>
+<h3 align="center">A passionate Web Developer from India.</h3>
+
+#### An aspiring MERN stack Web developer, currently looking for oppurtunities to expand my skillset and work in a colloborative environment. Recent graduate with Masters degree in Commerce and a passion for web development.
 
 
 
+<h2 dir="auto"><a id="user-content--about-me" class="anchor" aria-hidden="true" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>👨🏻&zwj;💻 About Me:</h2>
 
 
-<br/>
+<img align="right" height="250px" alt="GIF" src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" /><p dir="auto"><g-emoji class="g-emoji" alias="raising_hand_man" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b-2642.png"></p>
+
+- 🙋 All about me is at <strong><a href="https://anuradhagupta28.github.io/" target="_blank" rel="nofollow">My Portfolio</a></strong>
 
 
-## 📊 Github Stats
-<div align="center" style="display: flex; flex-wrap: nowrap;">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api?username=Anuradhagupta28&count_private=true&show_icons=true&theme=onedark" alt="Anuradha" />
-    <img width="42.4%" src="http://github-readme-streak-stats.herokuapp.com?user=Anuradhagupta28&theme=onedark&date_format=M%20j%5B%2C%20Y%5D" alt="Anuradha" />
-    
+- <p dir="auto"><g-emoji class="g-emoji" alias="dancers" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f46f.png">👩‍💻</g-emoji> Open to work.</p> 
+
+<!-- - <p dir="auto">🔭 I’m currently working on <code>Something Intresting </code> -->
+
+- <p dir="auto"><g-emoji class="g-emoji" alias="man_technologist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f468-1f4bb.png">🥅 </g-emoji> Life Hack: Learning new things and contribute more</p>
+ 
+
+- <p dir="auto"><g-emoji class="g-emoji" alias="heartbeat" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f493.png">💓</g-emoji> I love designing websites and coding.</p>
+
+- <p dir="auto">📝 Checkout my <strong><a href="https://drive.google.com/file/d/1OqQ5ULkJJmpJOK3yQTgzRysDmU3YEpwc/view?usp=drive_link" target="_blank" rel="nofollow">Resume</a></strong>
+
+</br>
+
+<h3 align="center">Technology Stack:</h3></br>
+<div>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react"/>
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="redux"/>
+  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" alt="json" />
+  <img src="https://img.shields.io/badge/Chakra--UI-319795?style=for-the-badge&logo=chakra-ui&logoColor=white" alt="chakra-ui" />
+  <img src="https://camo.githubusercontent.com/b768ae6e4f89b74512e6de02a8367fd71465bc3d88ef1cf2f1622e2017c32bea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f626f6f7473747261702d2532333536334437432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d626f6f747374726170266c6f676f436f6c6f723d7768697465" alt="bootstrap" />
+  
+
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="expressjs" />
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongoDB" />
+  
+  <img src="https://camo.githubusercontent.com/6cbecd63a9a8f83ee186885c446938820ffa8304942a284ee6e1e2acb2bfd822/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="java" />
+
+  <img src="https://camo.githubusercontent.com/88ab3c0f78016111d88ef82030375fb740d82dd0c16c1b078c441e22479009b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465" alt="vscode" />
+  <img src="https://camo.githubusercontent.com/6705f9a0f7249b1daac622690b7cd4dd6b7d5a4d6988fd9e258fce2284f5df54/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f646573616e64626f782d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d436f646553616e64626f78266c6f676f436f6c6f723d7768697465" alt="codesand" />
+  <img src="https://camo.githubusercontent.com/9df883a0044327811502d49027e8bdcce09f89266caef16cbaeaf7cf96659977/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f646570656e2d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d636f646570656e266c6f676f436f6c6f723d7768697465" alt="codepen" />
+  <img src="https://camo.githubusercontent.com/b0803f299d89e7a70fcc3758536f4a2c35d92af1a38bcf40a207ad2666610f83/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f7265706c69742d3636373838313f7374796c653d666f722d7468652d6261646765266c6f676f3d7265706c6974266c6f676f436f6c6f723d7768697465" alt="replit" />
+  <img src="https://camo.githubusercontent.com/92dde1e7c42c013a5fce4dfeee0843f06710bfd38a610885e33a273c7eca0d22/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e65746c6966792d3030433742373f7374796c653d666f722d7468652d6261646765266c6f676f3d6e65746c696679266c6f676f436f6c6f723d7768697465" alt="netlify" />
+  <img src="https://camo.githubusercontent.com/fbc3df79ffe1a99e482b154b29262ecbb10d6ee4ed22faa82683aa653d72c4e1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622d3130303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="github" />
+</p>
 </div>
 
-## 🏆 Trophies:
-<br/>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Anuradhagupta28&theme=onedark" alt="Anuradhagupta28" /></a> </p>
+<br>
+<p align="center"><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=
+Anuradhagupta28&show_icons=true&locale=en&theme=tokyonight" alt="
+Anuradhagupta28" /></p>
 
-## TECH STACK
+<p align="center">&nbsp;<img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=
+Anuradhagupta28&show_icons=true&count_private=true&locale=en&theme=tokyonight" alt="
+Anuradhagupta28" /></p>
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>  ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-
-
-<img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"/> ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-
-
-## Connect with me:
-<p align="left">  
-<a href="https://www.linkedin.com/in/anuradha-gupta-9a872421b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/anuradha-gupta-9a872421b/" height="30" width="40" /></a> 
-<!-- <a href="https://twitter.com/DineshSengar007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/fullstuckVishal" height="30" width="40" /></a> -->
-<a href="https://www.instagram.com/lil._sparrow/" target="_blank"><img align="left" alt="Karan | Instagram" src="https://skillicons.dev/icons?i=instagram" height="30" width="40" /></a>
-
+<p align="center"><img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
+Anuradhagupta28&theme=dark&hide_border=false&count_private=true&layout=compact" alt="
+Anuradhagupta28" />
 </p>
 
-## ❤ Views and Followers
+<br>
+<p align="center"><img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=
+Anuradhagupta28&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="
+Anuradhagupta28" />
+<br/>
+<br/>
 
-<a href="https://github.com/Anuradhagupta28">
-    <img src="https://komarev.com/ghpvc/?username=Anuradhagupta28">
-</a>
-<a href="https://github.com/Anuradhagupta28?tab=followers"><img src="https://img.shields.io/github/followers/Anuradhagupta28?label=Followers&style=social" alt="GitHub Badge"></a>
+## Let's Connect!
 
-### [Portfolio](https://anuradhagupta28.github.io/) 
+<p align="left">
+<a href = "https://anuradha-portfoliyo85.netlify.app/" target="_blank" ><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a title="annugupta8512@gmail.com" href="mailto:annugupta8512@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="mail-me" /></a>
+<a href="https://anuradhagupta28.github.io/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="portfolio" /></a>
+</p>
 
-
-
-
-
-
-
-
-<!-- - 👋 Hi, I’m Anuradha
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJs And Many Exciting things that Can do wonders... -->
-
-
-
-
-
-<!--
-**Anuradhagupta28/Anuradhagupta28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
