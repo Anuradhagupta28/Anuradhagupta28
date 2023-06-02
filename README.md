@@ -59,8 +59,7 @@
 
 <br>
 <p align="center"><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=
-Anuradhagupta28&show_icons=true&locale=en&theme=tokyonight" alt="
-Anuradhagupta28" /></p>
+Anuradhagupta28&show_icons=true&locale=en&theme=tokyonight" alt="Anuradha" /></p>
 
 <p align="center">&nbsp;<img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=
 Anuradhagupta28&show_icons=true&count_private=true&locale=en&theme=tokyonight" alt="
