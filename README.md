@@ -58,22 +58,15 @@
 </div>
 
 <br>
-<p align="center"><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=
-Anuradhagupta28&show_icons=true&locale=en&theme=tokyonight" alt="Anuradha" /></p>
+<p align="center"><img align="center" width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=AkshataGanbote&show_icons=true&locale=en&theme=tokyonight" alt="AkshataGanbote" /></p>
 
-<p align="center">&nbsp;<img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=
-Anuradhagupta28&show_icons=true&count_private=true&locale=en&theme=tokyonight" alt="
-Anuradhagupta28" /></p>
+<p align="center">&nbsp;<img align="center" width="80%" src="https://github-readme-stats.vercel.app/api?username=AkshataGanbote&show_icons=true&count_private=true&locale=en&theme=tokyonight" alt="AkshataGanbote" /></p>
 
-<p align="center"><img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=
-Anuradhagupta28&theme=dark&hide_border=false&count_private=true&layout=compact" alt="
-Anuradhagupta28" />
+<p align="center"><img align="center" width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AkshataGanbote&theme=dark&hide_border=false&count_private=true&layout=compact" alt="AkshataGanbote" />
 </p>
 
 <br>
-<p align="center"><img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=
-Anuradhagupta28&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="
-Anuradhagupta28" />
+<p align="center"><img align="center" width="100%" src="https://github-profile-trophy.vercel.app/?username=AkshataGanbote&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="AkshataGanbote" />
 <br/>
 <br/>
 
