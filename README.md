@@ -48,7 +48,7 @@ Highly passionate and user-focused Developer adept incollaborating with teams to
     <img src="https://komarev.com/ghpvc/?username=Anuradhagupta28">
 </a>
 <a href="https://github.com/Anuradhagupta28?tab=followers"><img src="https://img.shields.io/github/followers/Anuradhagupta28?label=Followers&style=social" alt="GitHub Badge"></a>
-
+- 📫 How to reach me: ...
 ### [Portfolio](https://anuradhagupta28.github.io/) 
 
 
