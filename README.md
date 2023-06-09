@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> ~ I'm Anuradha<img width="33" bottom="-20" src="https://user-images.githubusercontent.com/97526754/173172254-697ba77e-bed8-4ffc-b1d1-2c20ede245b0.gif" /></h1>
 <h4 align="center" margin="0px">A learner who is looking forward to working in the IT world, Enthusiastic to learn new Technology, wants to learn the industry experience, and gain new skills & technologies with at most dedication for organizational and personal growth</h4>
 <h2 align="center">System.out.println("Hello World !!");</h2>
-<img src="https://img.freepik.com/premium-vector/woman-is-sitting-with-laptop-concept-illustration-working-freelancing-studying-education-wo_572614-359.jpg?size=626&ext=jpg&ga=GA1.1.2001943862.1674744363&semt=ais" width="800" align="centre" marginLeft="300px" alt="" />
+<img src="https://img.freepik.com/premium-vector/woman-is-sitting-with-laptop-concept-illustration-working-freelancing-studying-education-wo_572614-359.jpg?size=626&ext=jpg&ga=GA1.1.2001943862.1674744363&semt=ais" width="800" height="600" align="centre" marginLeft="300px" alt="" />
 
 ### Hello! I'm Anuradha, a Full Stack Developer located in India. My expertise lies in the design and development of complex web applications and I am highly passionate about this field. Through my expertise in software engineering, I am able to understand the intricate details of the development process, and I am able to efficiently deliver high-quality projects using precision and attention to detail.
 
