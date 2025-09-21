@@ -1,10 +1,10 @@
 ### Hello  Folks 👋
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35" /> ~ I'm Anuradha<img width="33" bottom="-20" src="https://user-images.githubusercontent.com/97526754/173172254-697ba77e-bed8-4ffc-b1d1-2c20ede245b0.gif" /></h1>
-<h4 align="center" margin="0px">A learner who is looking forward to working in the IT world, Enthusiastic to learn new Technology, wants to learn the industry experience, and gain new skills & technologies with at most dedication for organizational and personal growth</h4>
+<h4 align="center" margin="0px">Passionate Software Developer with hands-on experience in Web and Mobile development. Skilled in building dynamic applications and delivering engaging user experiences. Eager to contribute to innovative teams using modern technologies.</h4>
 <h2 align="center">System.out.println("Hello World !!");</h2>
 <img src="https://img.freepik.com/premium-vector/woman-is-sitting-with-laptop-concept-illustration-working-freelancing-studying-education-wo_572614-359.jpg?size=626&ext=jpg&ga=GA1.1.2001943862.1674744363&semt=ais" width="800" height="600" align="centre" marginLeft="300px" alt="" />
 
-### Hello! I'm Anuradha, a Full Stack Developer located in India. My expertise lies in the design and development of complex web applications and I am highly passionate about this field. Through my expertise in software engineering, I am able to understand the intricate details of the development process, and I am able to efficiently deliver high-quality projects using precision and attention to detail.
+### Hello! I'm Anuradha Gupta, an Experienced Software Developer based in Noida, India. I specialize in designing and developing scalable, high-performance web and mobile applications. With solid industry experience, I bring deep expertise in software engineering, enabling me to handle complex projects end-to-end. My strong problem-solving skills, attention to detail, and focus on clean architecture allow me to deliver robust, maintainable, and high-quality solutions that meet both business and user needs. I am passionate about leveraging modern technologies to build impactful applications and continuously grow as a developer.
 
   
 <br/>
